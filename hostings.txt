@@ -166,3 +166,4 @@ https://blackmore.cloud/ | Germany, Netherlands, Poland, USA, UK
 https://profvds.com/ | Slovakia 
 https://www.virtvps.com/ | Netherlands 
 https://tnahosting.net/ | USA
+https://www.akkocloud.com/ | Germany, UK, Hong-Kong, Japan, USA
